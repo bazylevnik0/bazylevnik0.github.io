@@ -185,6 +185,9 @@ h3
   font-weight: 400;
   color: hsl(179, 62%, 63%);
   display: inline-block;
+  position: relative;
+  bottom: 5px;
+  left: 5px;
 }
 
 .price-bottom
