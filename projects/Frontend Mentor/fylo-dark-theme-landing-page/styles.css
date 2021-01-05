@@ -413,8 +413,10 @@
 
   #zakoruchka
   {
-    position: absolute;
-    top: 2597px;
+    position: relative;
+    display: block;
+    top: 10px;
+    left: 25px;
     z-index: -1;
   }
 
@@ -825,9 +827,11 @@
 
   #zakoruchka
   {
-    position: absolute;
-    top: 2475px;
+    position: relative;
+    top: 25px;
+    left: 50px;
     z-index: -1;
     border-radius: 0;
+    display: block;
   }
 }
