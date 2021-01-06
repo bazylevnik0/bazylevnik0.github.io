@@ -835,4 +835,16 @@
     display: block;
   }
 }
-/**/
+
+@media only screen and (min-width:1441px)
+{
+  #zakoruchka
+  {
+    position: relative;
+    top: 25px;
+    left: 20%;
+    z-index: -1;
+    border-radius: 0;
+    display: block;
+  }
+}
