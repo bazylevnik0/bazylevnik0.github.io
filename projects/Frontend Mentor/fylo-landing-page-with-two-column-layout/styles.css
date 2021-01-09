@@ -822,10 +822,21 @@
 
 }
 
-@media only screen and (min-width:1024px max-width:1440px )
+@media only screen and (min-width:769px )
  {
-   body
+   .body-1-grid-2-input
    {
-     backgtound-color: red;
+     display: block;
+     margin-bottom: 25px;
    }
+}
+
+@media only screen and (min-width:1300px )
+ {
+
+     .body-1-grid-2-input
+     {
+       display: inline;
+      margin-bottom: 0px;
+     }
 }
