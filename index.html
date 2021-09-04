@@ -5,9 +5,9 @@
 
 projects for view:<br>
 ------------------------------------<br>
--Clicker Github page (Three.js , Tone.js)<br>
+-Clicker (Three.js , Tone.js):<br>
 <a href="https://bazylevnik0.github.io/gotothestars/">bazylevnik0.github.io/gotothestars/</a><br>
--Slideshow web tool Github page (HTML & CSS & JS)<br>
+-Slideshow web tool (HTML & CSS & JS):<br>
 <a href="https://bazylevnik0.github.io/showmagic/">bazylevnik0.github.io/showmagic/</a><br>
 ------------------------------------<br>
 Study projects: https://sites.google.com/view/nikolay-bazylev-study-projects/
