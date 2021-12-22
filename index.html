@@ -8,7 +8,7 @@ projects for view:<br>
 <b>Apps:</b><br>
 -Slideshow web tool (HTML & CSS & JS):<br>
 <a href="https://bazylevnik0.github.io/showmagic/">bazylevnik0.github.io/showmagic/</a><br>
--Web synth (HTML & CSS & JS , React):<br>
+-Web synth (HTML & CSS & JS , React, Tone.js):<br>
 <a href="https://nkxml.csb.app/">https://nkxml.csb.app/</a><br>
 -3D object viewer in AR (HTML & CSS & JS & Babylon.js):<br>
 <a href="https://bazylevnik0.github.io/thishere/">bazylevnik0.github.io/thishere/</a><br>
