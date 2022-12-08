@@ -14,6 +14,8 @@
 <a href="https://bazylevnik0.github.io/learning/web/free/thishere/">https://bazylevnik0.github.io/learning/web/free/thishere/</a><br>
 -Mix app for sending messages(HTML & CSS & JS , Express.js)<br>
 <a href="https://devpost.com/software/commonecator">https://devpost.com/software/commonecator</a><br>
+-App with dynamic database, rent/get houses(NEXT.js)<br>
+<a href="https://devpost.com/software/donationhouse">https://devpost.com/software/donationhouse</a><br>
 <b>Web elements:</b><br>
 -3D Slider: <a href="https://bazylevnik0.github.io/learning/web/free/elements/3dslider/">https://bazylevnik0.github.io/learning/web/free/elements/3dslider/</a><br>
 -3D Menu: <a href="https://bazylevnik0.github.io/learning/web/free/elements/3dmenu/">https://bazylevnik0.github.io/learning/web/free/elements/3dmenu/</a><br>
