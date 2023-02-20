@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bazylevnik0
-- 👀 I’m interested in web/system/art
+- 👀 I’m interested in coding/art
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: bazylevnik0@yahoo.com <br>
 *soviet basic books torrent: <a href="https://bazylevnik0.github.io/sovietbasicbooks.torrent">https://bazylevnik0.github.io/sovietbasicbooks.torrent</a><br>
