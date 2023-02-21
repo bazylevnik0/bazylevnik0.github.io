@@ -60,3 +60,6 @@ Repeated classic game intros(Three.js(t)/Babylon.js(b)) :<br>
 <h2>Guided web projects</h2> https://sites.google.com/view/web-guided-projects/home<br><hr>
 <h1>Art</h1>
 <a href="https://bazylevnik0.github.io/art/">https://bazylevnik0.github.io/art/</a><br>
+<a href="https://www.flickr.com/photos/bazylevnik0">https://www.flickr.com/photos/bazylevnik0</a><br>
+<a href="https://sketchfab.com/bazylevnik0">https://sketchfab.com/bazylevnik0</a><br>
+<a href="https://dribbble.com/bazylevnik0">https://dribbble.com/bazylevnik0</a><br>
