@@ -31,6 +31,8 @@
 <a href="https://devpost.com/software/commonecator">https://devpost.com/software/commonecator</a><br>
 -App with dynamic database, rent/get houses(NEXT)<br>
 <a href="https://devpost.com/software/donationhouse">https://devpost.com/software/donationhouse</a><br>
+-App for KaiOS(HTML/CSS/JS, React)<br>
+<a href="https://devpost.com/software/traveller-nb12xu">https://devpost.com/software/traveller-nb12xu</a>
 <b>Web elements:</b><br>
 -3D Slider: <a href="https://bazylevnik0.github.io/learning/web/free/elements/3dslider/">https://bazylevnik0.github.io/learning/web/free/elements/3dslider/</a><br>
 -3D Menu: <a href="https://bazylevnik0.github.io/learning/web/free/elements/3dmenu/">https://bazylevnik0.github.io/learning/web/free/elements/3dmenu/</a><br>
