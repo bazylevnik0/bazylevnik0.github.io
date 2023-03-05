@@ -5,8 +5,8 @@
 - 📫 How to reach me: bazylevnik0@yahoo.com <br>
 *soviet basic books torrent: <a href="https://bazylevnik0.github.io/sovietbasicbooks.torrent">https://bazylevnik0.github.io/sovietbasicbooks.torrent</a><br>
 ** personal blog: <a href="https://bazylevnik0.blogspot.com/">https://bazylevnik0.blogspot.com/</a><br>
-*** essays about tech: <a href="https://docs.google.com/document/d/1Y--STgCY3BUBBXWqigA8195b8luMEXXqe2u4CsyWGkA/">https://docs.google.com/document/d/1Y--STgCY3BUBBXWqigA8195b8luMEXXqe2u4CsyWGkA/</a><br>
-**** photoalbum: <a href="https://photos.app.goo.gl/WedbB4GdUPUDjcUX8">https://photos.app.goo.gl/WedbB4GdUPUDjcUX8</a><br>
+*** photoalbum: <a href="https://photos.app.goo.gl/WedbB4GdUPUDjcUX8">https://photos.app.goo.gl/WedbB4GdUPUDjcUX8</a><br>
+**** essays about tech: <a href="https://docs.google.com/document/d/1Y--STgCY3BUBBXWqigA8195b8luMEXXqe2u4CsyWGkA/">https://docs.google.com/document/d/1Y--STgCY3BUBBXWqigA8195b8luMEXXqe2u4CsyWGkA/</a><br>
 
 <h1>System</h1>
 <h2>Free system projects</h2><br>
